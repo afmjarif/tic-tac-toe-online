@@ -1,1 +1,2 @@
-Tic Tac Toe game for web development couse
+Tic Tac Toe game for web development course
+
